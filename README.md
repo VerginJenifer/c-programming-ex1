@@ -1,5 +1,6 @@
+# C program to print welcome to india
 ## AIM:
-To Write a program to print welcome to india
+To Write a 
 ## ALGORITHM:
 1. Includes the standard input-output header file #include <stdio.h>.
 2. Defines the main function, which is the entry point of the program.
