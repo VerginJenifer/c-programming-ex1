@@ -15,6 +15,6 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/VerginJenifer/c-programming-ex1/assets/136251012/7b1d0893-90aa-419a-a9d3-d7d0ef6bab0f)
+![image](https://github.com/VerginJenifer/c-programming-ex1/assets/136251012/6df575f9-775a-472e-b7e0-765072d52972)
 ## RESULT:
 Thus, 'welcome to india' was printed successfully.
